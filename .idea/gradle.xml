@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Sorting Tool/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Comparing numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Non-abstract methods" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Odd and even" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Sort users" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Basic job requirements" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/EnumSet" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Error" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Vaccination" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/E-mail address" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Find a word with a given length" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Number parsing" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Start or end of a word" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Patterns and Matcher/Why use Pattern and Matcher" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Countdown counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Methods" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Synchronize the code" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Thread synchronization in Java" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Thread-safe account" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Two methods, two statements" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/What is wrong" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Where it is possible to write synchronized" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

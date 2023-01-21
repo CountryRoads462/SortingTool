@@ -1,0 +1,29 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Account {
+
+        private long balance = 0;
+
+        public synchronized boolean withdraw(long amount) {
+            return false;
+        }
+
+        public synchronized void deposit(long amount) {
+            // do something useful
+        }
+
+        public long getBalance() {
+            return balance;
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2654#comment
+status: Failed
+feedback:
+  message: "Failed. Runtime error\n\nError:\nException in thread \"main\" java.lang.RuntimeException:\
+    \ Your account works incorrectly with a single thread.\n\tat AccountDemo.main(Main.java:20)\n"
+  time: Fri, 20 Jan 2023 17:34:27 UTC
+record: -1
